@@ -5,20 +5,20 @@ Business Inquiries <img src="https://user-images.githubusercontent.com/1303154/8
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanzanr&hide=html&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Bryanzanr Github Stats](https://github-readme-stats.vercel.app/api?username=bryanzanr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-#### CODING EXPERIENCE ON! 
-Java                        ██████▓░░░░   20.29 %
+#### CODING EXPERIENCE ON! (1 = Java, 2 = HTML/CSS, 3 = Python, 4 = Ruby, 5 = Kotlin, 6 = Go, 7 = Swift)
+(1)  ██████▓░░░░   20.29 %
 
-HTML/CSS                    ███▓░░░░░░░   10.92 % 
+(2)  ███▓░░░░░░░   10.92 % 
 
-Python                      ██████▓░░░░   20.92 % 
+(3)  ██████▓░░░░   20.92 % 
 
-Ruby                        ███▓░░░░░░░   10.29 % 
+(4)  ███▓░░░░░░░   10.29 % 
 
-Kotlin                      ███▓░░░░░░░   10.92 %
+(5)  ███▓░░░░░░░   10.92 %
 
-Go                          ██████▓░░░░   20.92 %
+(6)  ██████▓░░░░   20.92 %
 
-Swift                       ███▓░░░░░░░   10.92 %
+(7)  ███▓░░░░░░░   10.92 %
 
 <!--
 **bryanzanr/bryanzanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
