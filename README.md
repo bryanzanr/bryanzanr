@@ -6,12 +6,18 @@ Business Inquiries <img src="https://user-images.githubusercontent.com/1303154/8
 ![Bryanzanr Github Stats](https://github-readme-stats.vercel.app/api?username=bryanzanr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 #### CODING EXPERIENCE ON! 
-Java                        ██████▓░░░░   20.29 % 
+Java                        ██████▓░░░░   20.29 %
+
 HTML/CSS                    ███▓░░░░░░░   10.92 % 
+
 Python                      ██████▓░░░░   20.92 % 
+
 Ruby                        ███▓░░░░░░░   10.29 % 
+
 Kotlin                      ███▓░░░░░░░   10.92 %
+
 Go                          ██████▓░░░░   20.92 %
+
 Swift                       ███▓░░░░░░░   10.92 %
 
 <!--
